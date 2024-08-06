@@ -2,7 +2,7 @@ Ansible installation and Configuration
 
 1:create hostnames
 #sudo hostnamectl set-hostname <nodes names>
-#sudo -I
+#sudo -i
 
 2. adduser and create password for the root user for login into all workernodes(all nodes and master)
 #adduser ansible
